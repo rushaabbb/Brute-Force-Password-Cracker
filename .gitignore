@@ -1,0 +1,9 @@
+che/
+*.pyc
+*.pyo
+.DS_Store
+.env
+.vscode/
+.idea/
+wordlist.txt
+
